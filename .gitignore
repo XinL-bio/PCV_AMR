@@ -1,0 +1,8 @@
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.rds
+*.RData
+results/
+output/
