@@ -4,7 +4,7 @@ We used ATLAS surveillance data to examine how national introduction of pneumoco
 
 ## Data
 
-The analysis uses the [ATLAS antimicrobial surveillance dataset](https://searchamr.vivli.org/datasetDetails/fromSearch/ce7367e1-c91a-4de1-87e4-6e4d8f834085), available through the [Vivli AMR Register](https://amr.vivli.org/resources/data-request-process-overview/), and a separate country-level PCV introduction-year lookup. Access to ATLAS does not include the PCV lookup. Neither workbook is distributed in this repository; exact results require the same study inputs and country names.
+The analysis uses the [ATLAS antimicrobial surveillance dataset](https://searchamr.vivli.org/datasetDetails/fromSearch/ce7367e1-c91a-4de1-87e4-6e4d8f834085), available through the [Vivli AMR Register](https://amr.vivli.org/resources/data-request-process-overview/), and a separate country-level PCV introduction-year lookup.
 
 The expected inputs are `atlas_sp.xlsx` (ATLAS isolate records) and `PCV_intro.xlsx`. 
 
